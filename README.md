@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ankit14120
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning java programming language
+- 🎯 I'm focus to share c++ programs as possible
 
 <!---
 ankit14120/ankit14120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
